@@ -1,8 +1,8 @@
 
 ## Olá 👋, eu sou o Júlio Monteiro!
-    • 📚 Acadêmico do curso de Ciência da Computação, tenho estudos voltados para Ciência de Dados;
-    • ⚙️ Apaixonado por tecnologia, estudo muito sobre IA e Machine Learning;
-    • 👨‍💻 Atualmente, sou estagiário em Análise de Dados na Seazone.
+   • 📚 Acadêmico do curso de Ciência da Computação, tenho estudos voltados para Ciência de Dados;
+   • ⚙️ Apaixonado por tecnologia, estudo muito sobre IA e Machine Learning;
+   • 👨‍💻 Atualmente, sou estagiário em Análise de Dados na Seazone.
 
 ## 💻 Tecnologias que eu uso no meu dia a dia 
 <div style="display: inline_block"></br>
