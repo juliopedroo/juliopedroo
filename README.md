@@ -4,7 +4,7 @@
     • ⚙️ Apaixonado por tecnologia, estudo muito sobre IA e Machine Learning;
     • 👨‍💻 Atualmente, sou estagiário em Análise de Dados na Seazone.
 
-## 💻 Tecnologias que eu uso no meu dia a dia 
+## 💻 Tecnologias que eu uso e estudo no meu dia a dia 
 <div style="display: inline_block"></br>
     <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
