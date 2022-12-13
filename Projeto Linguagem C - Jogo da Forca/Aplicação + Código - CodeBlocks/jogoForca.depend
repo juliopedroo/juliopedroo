@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1670178338 source:c:\users\julio\onedrive\Área de trabalho\ciência da computação\p2-2022.2\tec de desenvolvimento de algoritmos\projeto final\jogoforca\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<locale.h>
-	<time.h>
-

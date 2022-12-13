@@ -1,6 +1,0 @@
-Nome: Julio
-Pontuação: 90
-Nome: Audvanio
-Pontuação: 80
-Nome: Jogador
-Pontuação: 60
